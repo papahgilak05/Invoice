@@ -1,0 +1,15 @@
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\bin\Debug\net6.0\StringManipulation.exe
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\bin\Debug\net6.0\StringManipulation.deps.json
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\bin\Debug\net6.0\StringManipulation.runtimeconfig.json
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\bin\Debug\net6.0\StringManipulation.dll
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\bin\Debug\net6.0\StringManipulation.pdb
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\obj\Debug\net6.0\StringManipulation.csproj.AssemblyReference.cache
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\obj\Debug\net6.0\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\obj\Debug\net6.0\StringManipulation.AssemblyInfoInputs.cache
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\obj\Debug\net6.0\StringManipulation.AssemblyInfo.cs
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\obj\Debug\net6.0\StringManipulation.csproj.CoreCompileInputs.cache
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\obj\Debug\net6.0\StringManipulation.dll
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\obj\Debug\net6.0\refint\StringManipulation.dll
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\obj\Debug\net6.0\StringManipulation.pdb
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\obj\Debug\net6.0\StringManipulation.genruntimeconfig.cache
+E:\MATERI METRODATA\FUNdamental C#\StringManipulation\StringManipulation\obj\Debug\net6.0\ref\StringManipulation.dll
